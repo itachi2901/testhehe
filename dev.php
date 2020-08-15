@@ -8,3 +8,4 @@
 
 echo "branch dev commit 1";
 echo "branch dev commit 2";
+echo "branch dev commit 3";
