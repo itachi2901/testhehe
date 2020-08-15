@@ -9,3 +9,4 @@
 echo "dev02";
 echo "dev02-commit02";
 echo "dev03-commit03";
+echo "dev03-commit04";
