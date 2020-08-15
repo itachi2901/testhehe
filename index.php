@@ -17,3 +17,4 @@ echo "dev-commit05";
 echo "dev01-commit";
 echo "master commit";
 echo "master commit02";
+echo "master commit03";
