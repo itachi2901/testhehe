@@ -7,3 +7,4 @@
  */
 
 echo "dev02";
+echo "dev02-commit02";
